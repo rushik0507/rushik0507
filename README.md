@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FitFreak<br>🌱 I’m currently learning Angular<br>⚡ Fun fact I think morning-time study overrated.
+🔭 I’m currently working freelance<br>🌱 I’m currently learning Angular<br>⚡ Fun fact I think morning-time study overrated.
 
 
 ## 🌐 Socials:
